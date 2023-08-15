@@ -187,7 +187,6 @@ label {
 }
 .portada {
     background-color: var(--gris);
-    background-image: url("../asset/img/banner.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -200,7 +199,6 @@ label {
 
 .sinopsis {
     background-color: var(--gris);
-    background-image: url("../asset/img/banner.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
